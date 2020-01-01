@@ -1,0 +1,127 @@
+body {
+  text-align: center;
+  margin: 0;
+  font-family: "Merriweather", serif;
+  color: #545454;
+}
+
+h1 {
+  margin: 50px auto 0 auto;
+  font-family: "Sacramento", cursive;
+  font-size: 5rem;
+  color: #45b29a;
+}
+h2 {
+  font-size: 1.5rem;
+  font-weight: normal;
+  margin: 1rem auto 2rem auto;
+  line-height: 2;
+}
+h2,
+h3 {
+  font-family: "Montserrat", sans-serif;
+  color: #45b29a;
+}
+
+.description-text {
+  font-size: 1.2rem;
+  width: 37%;
+  margin: 2rem auto 5rem auto;
+  font-weight: 300;
+  line-height: 1.5;
+}
+.top-container {
+  padding-top: 100px;
+  position: relative;
+  background-color: #e0ebe8;
+}
+
+.bottom-cloud {
+  position: absolute;
+  top: 280px;
+  left: 220px;
+}
+.top-cloud {
+  position: absolute;
+  right: 200px;
+  top: 120px;
+}
+.mountain-img {
+  display: block;
+  margin: 0 auto;
+}
+.skill-row {
+  width: 50%;
+  margin: 100px auto;
+  text-align: left;
+  line-height: 2;
+}
+.code-img {
+  width: 25%;
+  float: right;
+  margin-left: 30px;
+  margin-top: -20px;
+}
+.design-img {
+  width: 25%;
+  float: left;
+  margin-right: 30px;
+  margin-top: -20px;
+}
+.profile-img {
+  width: 150px;
+  margin: 30px auto;
+}
+
+.skills-heading {
+  font-family: "Montserrat", sans-serif;
+  color: #1e836c;
+  font-weight: 600;
+  margin: 100px auto 0 auto;
+  font-size: 2rem;
+}
+.intro-heading {
+  font-family: "Montserrat", sans-serif;
+  color: #45b29a;
+  font-weight: 600;
+  margin: 10px auto 50px auto;
+  font-size: 2rem;
+}
+.contactme-text {
+  width: 49%;
+  margin: 0 auto;
+  font-size: 1.1rem;
+  margin: 2rem auto 3rem auto;
+  font-weight: 300;
+  line-height: 1.5;
+}
+.btn {
+  display: inline-block;
+  text-decoration: none;
+  background-color: #45b29a;
+  color: #fff;
+  padding: 1rem 2rem;
+  font-family: "Montserrat", sans-serif;
+  margin-bottom: 2rem;
+  margin-top: 0;
+}
+hr {
+  width: 4%;
+  border: dotted #eaf6f6 6px;
+  border-bottom: none;
+}
+
+.bottom-container {
+  background-color: #c5ded7;
+  padding: 4rem 5rem;
+}
+.footer-link {
+  text-decoration: none;
+}
+.footer-link:not(:last-child) {
+  margin-right: 10px;
+  color: #45b29a;
+}
+.footer-copy {
+  margin-top: 2.5rem;
+}
